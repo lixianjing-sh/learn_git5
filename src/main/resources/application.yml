@@ -1,0 +1,8 @@
+
+spring:
+  datasource:
+    name: orion  #数据库名
+    url: jdbc:mysql://localhost:3306/orion #url
+    username: root  #用户名
+    password: lxj@111111  #密码
+    driver-class-name: com.mysql.jdbc.Driver  #数据库链接驱动
