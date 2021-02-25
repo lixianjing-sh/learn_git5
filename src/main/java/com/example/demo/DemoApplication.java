@@ -12,6 +12,7 @@ public class DemoApplication {
     public static void main(String[] args) {
         System.out.println("123");
         System.out.println("1231");
+        System.out.println("1232");
         SpringApplication.run(DemoApplication.class, args);
     }
 
